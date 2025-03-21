@@ -11,8 +11,10 @@
 - **Data Structures & Algorithms**: Continuously improving my problem-solving skills through practice with linked lists, binary search trees, and string manipulation.
 
 ### 🌱 What I'm Learning
-- Exploring advanced concepts in React Native to build cross-platform mobile applications.
-- Deepening my understanding of software architecture and design patterns.
+- Enhancing my expertise in machine learning and deep learning for predictive analytics.
+- Exploring NLP techniques for sentiment analysis and text classification.
+- Advancing my skills in data preprocessing and feature engineering for improved model accuracy.
+- Gaining deeper insights into real-time data analysis and visualization for IoT-driven applications.
 
 ### 💼 Experience
 - **Data Science Intern at OxyHarvest**:
