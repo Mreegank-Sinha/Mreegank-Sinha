@@ -24,7 +24,7 @@
 ### 💬 Let's Connect
 Feel free to reach out to me if you want to discuss technology, share ideas, or collaborate on a project!
 
-- **LinkedIn**: [https://www.linkedin.com/in/mreegank-sinha/](#)
+- **LinkedIn**: [https://www.linkedin.com/in/mreegank-sinha]
 - **Email**: [mreeganksinha76@gmail.com](mailto:your.email@example.com)
 
 Thanks for visiting my GitHub profile! 
