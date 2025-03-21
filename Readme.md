@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hi there! I'm Prashant Yadav, a passionate CSE undergrad with experience in data analysis, data science, Gen AI, Deep Learning,and NLP. I have a knack for learning and enjoy solving complex problems. I'm particularly skilled in working with SQL,PowerBI, Python, ML frameworks, and utilising their features to create insightful solutions both in data anlaysis and AIML.
+👋 Hi there! I'm Mreegank Sinha, a passionate CSE undergrad with experience in data analysis, data science, Gen AI, Deep Learning,and NLP. I have a knack for learning and enjoy solving complex problems. I'm particularly skilled in working with SQL,PowerBI, Python, ML frameworks, and utilising their features to create insightful solutions both in data anlaysis and AIML.
 
 ![224934400-ae1625b5-f3f1-434f-82a0-8814d4c3329e](https://github.com/user-attachments/assets/67932a68-61c2-4968-a032-eeadb3423897)
 
