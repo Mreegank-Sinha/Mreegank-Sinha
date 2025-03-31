@@ -2,9 +2,6 @@
 
 👋 Hi there! I'm Mreegank Sinha, a passionate CSE undergrad with experience in data analysis, data science, Gen AI, Deep Learning,and NLP. I have a knack for learning and enjoy solving complex problems. I'm particularly skilled in working with SQL,PowerBI, Python, ML frameworks, and utilising their features to create insightful solutions both in data anlaysis and AIML.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mreegank-Sinha&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro-ao" /> </p>
-
-
 
 ### 🔭 What I'm Working On
 - **Data Analysis**: Currently enhancing my skills in SQL, Tableau, PowerBI,  Python and it's frameworks and libraires such as pandas, numpy, seaborn, focusing on analysis and presentation of data driven insights and solutions.
@@ -31,3 +28,5 @@ Feel free to reach out to me if you want to discuss technology, share ideas, or 
 - **Email**: [mreeganksinha76@gmail.com](mailto:your.email@example.com)
 
 Thanks for visiting my GitHub profile! 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mreegank-Sinha&label=Profile%20views&color=0e75b6&style=flat" /> </p>
