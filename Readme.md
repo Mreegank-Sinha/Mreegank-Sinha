@@ -29,4 +29,3 @@ Feel free to reach out to me if you want to discuss technology, share ideas, or 
 
 Thanks for visiting my GitHub profile! 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mreegank-Sinha&label=Profile%20views&color=0e75b6&style=flat" /> </p>
