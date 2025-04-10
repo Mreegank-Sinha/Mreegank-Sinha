@@ -19,7 +19,6 @@
   - Developed an algae bioreactor for air purification and algae harvesting.
   - Integrated IoT sensors to monitor temperature, AQI, VOC, and pH levels.
   - Built a real-time dashboard for 24/7 environmental data analysis.
-- **Past Projects**:
 
 ### 💬 Let's Connect
 Feel free to reach out to me if you want to discuss technology, share ideas, or collaborate on a project!
