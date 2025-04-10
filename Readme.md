@@ -1,12 +1,11 @@
 ## About Me
 
-👋 Hi there! I'm Mreegank Sinha, a passionate CSE undergrad with experience in data analysis, data science, Gen AI, Deep Learning,and NLP. I have a knack for learning and enjoy solving complex problems. I'm particularly skilled in working with SQL,PowerBI, Python, ML frameworks, and utilising their features to create insightful solutions both in data anlaysis and AIML.
+👋 Hi there! I'm Mreegank Sinha, a passionate CSE undergrad with experience in data analysis, data science,and NLP. I have a knack for learning and enjoy solving complex problems. I'm particularly skilled in working with SQL,PowerBI, Python, ML frameworks, and utilising their features to create insightful solutions both in data anlaysis and AIML.
 
 
 ### 🔭 What I'm Working On
 - **Data Analysis**: Currently enhancing my skills in SQL, Tableau, PowerBI,  Python and it's frameworks and libraires such as pandas, numpy, seaborn, focusing on analysis and presentation of data driven insights and solutions.
 - **Data Science**: Continuously improving my expertise with ML Frameworks and libraries such as, but not limited to Tensorflow, Keras, and pytorch to build and deploy relevant ML Models.
-- **Data Structures & Algorithms**: Continuously improving my problem-solving skills through practice with linked lists, binary search trees, and string manipulation.
 
 ### 🌱 What I'm Learning
 
