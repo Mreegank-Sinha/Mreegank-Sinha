@@ -9,10 +9,13 @@
 - **Data Structures & Algorithms**: Continuously improving my problem-solving skills through practice with linked lists, binary search trees, and string manipulation.
 
 ### 🌱 What I'm Learning
-- Enhancing my expertise in machine learning and deep learning for predictive analytics.
-- Exploring NLP techniques for sentiment analysis and text classification.
-- Advancing my skills in data preprocessing and feature engineering for improved model accuracy.
-- Gaining deeper insights into real-time data analysis and visualization for IoT-driven applications.
+
+- Performing end-to-end data analysis using SQL, Excel, and Power BI to generate business insights.
+- Cleaning, transforming, and modeling raw datasets for interactive dashboard creation using star schema design.
+- Analyzing multi-service booking data to identify customer preferences, revenue trends, and peak business hours.
+- Gaining hands-on experience in building real-time, interactive sales dashboards to support strategic decision-making.
+- Writing and optimizing complex SQL queries—including CTEs, window functions, and aggregations—for insights into music streaming and user behavior from Spotify data.
+- Addressing data inconsistencies and improving data quality for robust, insight-driven visualizations and reporting.
 
 ### 💼 Experience
 - **Data Science Intern at OxyHarvest**:
